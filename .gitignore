@@ -139,6 +139,7 @@ ENV/
 env.bak/
 venv.bak/
 pip-selfcheck.json
+reza1/*
 
 ### VisualStudioCode ###
 .vscode/*
@@ -150,5 +151,5 @@ pip-selfcheck.json
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
-
+config.py
 # End of https://www.gitignore.io/api/venv,django,database,visualstudiocode
